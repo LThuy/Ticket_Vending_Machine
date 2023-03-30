@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\TVM\TVM\bin\Debug\TVM.exe.config
+C:\Users\ACER\source\repos\TVM\TVM\bin\Debug\TVM.exe
+C:\Users\ACER\source\repos\TVM\TVM\bin\Debug\TVM.pdb
+C:\Users\ACER\source\repos\TVM\TVM\obj\Debug\TVM.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\TVM\TVM\obj\Debug\TVM.frmIntro.resources
+C:\Users\ACER\source\repos\TVM\TVM\obj\Debug\TVM.frmSelectRoute.resources
+C:\Users\ACER\source\repos\TVM\TVM\obj\Debug\TVM.Properties.Resources.resources
+C:\Users\ACER\source\repos\TVM\TVM\obj\Debug\TVM.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\TVM\TVM\obj\Debug\TVM.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\TVM\TVM\obj\Debug\TVM.exe
+C:\Users\ACER\source\repos\TVM\TVM\obj\Debug\TVM.pdb
+C:\Users\ACER\source\repos\TVM\TVM\obj\Debug\TVM.frmDetails.resources
+C:\Users\ACER\source\repos\TVM\TVM\obj\Debug\TVM.frmOutro.resources
+C:\Users\ACER\source\repos\TVM\TVM\obj\Debug\TVM.frmPIN.resources
+C:\Users\ACER\source\repos\TVM\TVM\obj\Debug\TVM.frmSelectPayment.resources
